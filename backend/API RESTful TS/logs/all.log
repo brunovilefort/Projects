@@ -1,0 +1,291 @@
+2022-08-14 10:59:44:5944 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 10:59:51:5951 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:00:27:027 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 11:00:27:027 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:00:36:036 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 11:00:36:036 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:00:50:050 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 11:00:50:050 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:00:59:059 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 11:00:59:059 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:01:13:113 - [31merror[39m: [31mNão foi possível conectar ao banco de dados![39m
+2022-08-14 11:01:13:113 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2022-08-14 11:01:13:113 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:01:20:120 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 11:01:20:120 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:01:40:140 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 11:01:40:140 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:09:00:90 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 11:09:00:90 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:09:15:915 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 11:09:15:915 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:10:20:1020 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 11:10:20:1020 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:10:27:1027 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 11:10:27:1027 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:10:41:1041 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 11:10:41:1041 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 11:10:44:1044 - [35mhttp[39m: [35mGET /api/test 200 12 - 4.321 ms[39m
+[35m[39m
+2022-08-14 12:03:12:312 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:03:12:312 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:03:54:354 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:03:54:354 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:05:35:535 - [35mhttp[39m: [35mPOST /api/movie 200 22 - 4.338 ms[39m
+[35m[39m
+2022-08-14 12:06:28:628 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:06:28:628 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:07:14:714 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:07:14:714 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:07:23:723 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:07:23:723 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:07:32:732 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:07:32:732 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:07:57:757 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:07:57:757 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:08:13:813 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:08:13:813 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:09:09:99 - [35mhttp[39m: [35mPOST /api/movie 201 155 - 209.876 ms[39m
+[35m[39m
+2022-08-14 12:30:19:3019 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:30:19:3019 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:30:24:3024 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:30:25:3025 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:31:34:3134 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:31:34:3134 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:31:35:3135 - [35mhttp[39m: [35mPOST /api/movie 201 151 - 1855.874 ms[39m
+[35m[39m
+2022-08-14 12:35:31:3531 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:35:31:3531 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:35:42:3542 - [35mhttp[39m: [35mPOST /api/movie 201 151 - 214.653 ms[39m
+[35m[39m
+2022-08-14 12:35:49:3549 - [35mhttp[39m: [35mPOST /api/movie 422 51 - 1.984 ms[39m
+[35m[39m
+2022-08-14 12:36:29:3629 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:36:29:3629 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:36:41:3641 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:36:41:3641 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:36:55:3655 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:36:55:3655 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:37:06:376 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:37:06:376 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:37:27:3727 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:37:27:3727 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:37:33:3733 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:37:33:3733 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:37:39:3739 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:37:39:3739 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:38:02:382 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:38:02:382 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:38:10:3810 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:38:10:3810 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:38:30:3830 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:38:30:3830 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:38:37:3837 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:38:37:3837 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:38:42:3842 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:38:42:3842 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:39:00:390 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:39:00:390 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:39:38:3938 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:39:38:3938 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:39:45:3945 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:39:45:3945 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:39:59:3959 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:39:59:3959 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:40:03:403 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:40:03:403 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:40:19:4019 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:40:19:4019 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:40:40:4040 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:40:40:4040 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:56:09:569 - [35mhttp[39m: [35mPOST /api/movie 422 202 - 12.123 ms[39m
+[35m[39m
+2022-08-14 12:56:26:5626 - [35mhttp[39m: [35mPOST /api/movie 422 105 - 2.484 ms[39m
+[35m[39m
+2022-08-14 12:56:52:5652 - [35mhttp[39m: [35mPOST /api/movie 201 191 - 209.677 ms[39m
+[35m[39m
+2022-08-14 12:58:11:5811 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:58:11:5811 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:58:30:5830 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:58:30:5830 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:58:47:5847 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:58:47:5847 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:58:55:5855 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:58:55:5855 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:59:12:5912 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:59:12:5912 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 12:59:17:5917 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 12:59:17:5917 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:00:53:053 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:00:53:053 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:01:08:18 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:01:08:18 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:01:13:113 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:01:14:114 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:01:19:119 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:01:19:119 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:01:30:130 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:01:30:130 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:05:54:554 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:05:54:554 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:05:59:559 - [35mhttp[39m: [35mGET /api/movie/62f91b44b6e0eb0485410c1e - - - - ms[39m
+[35m[39m
+2022-08-14 13:06:05:65 - [35mhttp[39m: [35mGET /api/movie/62f91b44b6e0eb0485410c1e - - - - ms[39m
+[35m[39m
+2022-08-14 13:06:20:620 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62f91b44b6e0eb0485410c1" (type string) at path "_id" for model "Movie"[39m
+2022-08-14 13:06:22:622 - [35mhttp[39m: [35mGET /api/movie/62f91b44b6e0eb0485410c1 - - - - ms[39m
+[35m[39m
+2022-08-14 13:06:36:636 - [35mhttp[39m: [35mGET /api//movie/62f91b44b6e0eb0485410c1e - - - - ms[39m
+[35m[39m
+2022-08-14 13:07:24:724 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:07:24:724 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:07:32:732 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:07:32:732 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:07:36:736 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:07:36:736 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:08:00:80 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:08:00:80 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:09:12:912 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:09:12:912 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:09:23:923 - [35mhttp[39m: [35mGET /api//movie/62f91b44b6e0eb0485410c1e 200 191 - 204.226 ms[39m
+[35m[39m
+2022-08-14 13:13:23:1323 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:13:23:1323 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:13:28:1328 - [35mhttp[39m: [35mGET /api/movies 404 149 - 4.252 ms[39m
+[35m[39m
+2022-08-14 13:13:44:1344 - [35mhttp[39m: [35mGET /api/movie 200 653 - 200.827 ms[39m
+[35m[39m
+2022-08-14 13:14:57:1457 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:14:57:1457 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:15:05:155 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:15:05:155 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:15:12:1512 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:15:12:1512 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:16:09:169 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:16:09:169 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:16:25:1625 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:16:25:1625 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:16:31:1631 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:16:31:1631 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:16:37:1637 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:16:37:1637 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:17:05:175 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:17:05:175 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:17:26:1726 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:17:26:1726 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:17:37:1737 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:17:37:1737 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:18:00:180 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:18:00:180 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:18:20:1820 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:18:20:1820 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:18:44:1844 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:18:44:1844 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:19:05:195 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:19:05:195 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:19:36:1936 - [35mhttp[39m: [35mGET /api/movie/62f91555b763ff12a7520fd6 200 151 - 205.526 ms[39m
+[35m[39m
+2022-08-14 13:19:57:1957 - [35mhttp[39m: [35mDELETE /api/movie/62f91555b763ff12a7520fd6 - - - - ms[39m
+[35m[39m
+2022-08-14 13:20:03:203 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62f91555b763ff12a7520fd66" (type string) at path "_id" for model "Movie"[39m
+2022-08-14 13:20:03:203 - [35mhttp[39m: [35mDELETE /api/movie/62f91555b763ff12a7520fd66 500 39 - 4.003 ms[39m
+[35m[39m
+2022-08-14 13:20:12:2012 - [35mhttp[39m: [35mDELETE /api/movie/62f91555b763ff12a7520fd6 - - - - ms[39m
+[35m[39m
+2022-08-14 13:20:51:2051 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:20:51:2051 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:21:17:2117 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:21:17:2117 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:21:30:2130 - [35mhttp[39m: [35mDELETE /api//movie/62f91555b763ff12a7520fd6 200 37 - 401.199 ms[39m
+[35m[39m
+2022-08-14 13:22:17:2217 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:22:17:2217 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:22:34:2234 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:22:34:2234 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:22:44:2244 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:22:44:2244 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:22:57:2257 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:22:57:2257 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:23:09:239 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:23:09:239 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:24:32:2432 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:24:32:2432 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:24:35:2435 - [35mhttp[39m: [35mGET /api//movie/62f910141ec3ce678f08d8e3 200 155 - 209.822 ms[39m
+[35m[39m
+2022-08-14 13:25:14:2514 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:25:14:2514 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:25:17:2517 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:25:17:2517 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:25:46:2546 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:25:46:2546 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:25:49:2549 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:25:49:2549 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:25:56:2556 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:25:56:2556 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:26:01:261 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:26:01:261 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:26:06:266 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:26:06:266 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:26:21:2621 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:26:21:2621 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:26:32:2632 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:26:32:2632 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:26:41:2641 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:26:41:2641 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:26:53:2653 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:26:53:2653 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:28:04:284 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-08-14 13:28:04:284 - [35mhttp[39m: [35mPATCH /api//movie/62f910141ec3ce678f08d8e3 500 39 - 409.197 ms[39m
+[35m[39m
+2022-08-14 13:29:21:2921 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:29:21:2921 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:30:03:303 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:30:03:303 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:30:06:306 - [35mhttp[39m: [35mPATCH /api//movie/62f910141ec3ce678f08d8e3 422 104 - 15.487 ms[39m
+[35m[39m
+2022-08-14 13:30:23:3023 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:30:23:3023 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:30:24:3024 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-08-14 13:30:24:3024 - [35mhttp[39m: [35mPATCH /api//movie/62f910141ec3ce678f08d8e3 500 39 - 1930.126 ms[39m
+[35m[39m
+2022-08-14 13:30:37:3037 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-08-14 13:30:37:3037 - [35mhttp[39m: [35mPATCH /api/movie/62f910141ec3ce678f08d8e3 500 39 - 369.205 ms[39m
+[35m[39m
+2022-08-14 13:32:29:3229 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:32:29:3229 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:32:32:3232 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-08-14 13:32:32:3232 - [35mhttp[39m: [35mPATCH /api/movie/62f910141ec3ce678f08d8e3 500 39 - 394.669 ms[39m
+[35m[39m
+2022-08-14 13:33:24:3324 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:33:24:3324 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:33:31:3331 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:33:31:3331 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:33:34:3334 - [31merror[39m: [31mErro no sistema: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-08-14 13:33:34:3334 - [35mhttp[39m: [35mPATCH /api/movie/62f910141ec3ce678f08d8e3 500 39 - 399.171 ms[39m
+[35m[39m
+2022-08-14 13:33:53:3353 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:33:53:3353 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:34:00:340 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:34:00:340 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:34:04:344 - [31merror[39m: [31mErro no sistema: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-08-14 13:34:04:344 - [35mhttp[39m: [35mPATCH /api/movie/62f910141ec3ce678f08d8e3 500 39 - 411.763 ms[39m
+[35m[39m
+2022-08-14 13:34:55:3455 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:34:55:3455 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:35:03:353 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:35:03:353 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:35:06:356 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-14 13:35:06:356 - [32minfo[39m: [32mServer is listen on port: 3000[39m
+2022-08-14 13:35:15:3515 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-08-14 13:35:15:3515 - [35mhttp[39m: [35mPATCH /api/movie/62f910141ec3ce678f08d8e3 500 39 - 398.135 ms[39m
+[35m[39m
+2022-08-14 13:36:01:361 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-08-14 13:36:01:361 - [35mhttp[39m: [35mPATCH /api/movie/62f910141ec3ce678f08d8e3 500 39 - 370.550 ms[39m
+[35m[39m
+2022-08-14 13:36:11:3611 - [35mhttp[39m: [35mPATCH /api/movie/62f91b44b6e0eb0485410c1e 200 191 - 370.722 ms[39m
+[35m[39m
+2022-08-14 13:36:19:3619 - [35mhttp[39m: [35mPATCH /api/movie/62f91b44b6e0eb0485410c1e 200 201 - 376.341 ms[39m
+[35m[39m
+2022-08-20 23:32:39:3239 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-08-20 23:32:39:3239 - [32minfo[39m: [32mServer is listen on port: 3000[39m
